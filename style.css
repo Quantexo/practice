@@ -1,0 +1,78 @@
+/* body{
+    background-color: azure;
+    position: fixed;
+} */
+/* .container{
+    background-color: aqua;
+    height: 75px;
+    width: 2130px;
+    position: relative;
+    left: -5px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    align-items: center;
+} */
+/* .naasax{
+    display: flex;
+    flex-basis: 20%;
+    position: relative;
+    left: 50px;
+} */
+/* .welcome{
+    display: flex;
+    flex-basis: 20%;
+    justify-content: end;
+    position: relative;
+    right: 40px;
+} */
+/* .tabrow{
+    background-color: aqua;
+    background: none;
+    border: 0px;
+    display: flex;
+    flex-basis: 60%;
+    justify-content: end;
+    position: relative;
+    gap: 10px;
+}
+.tabbtn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: none;
+  border: none;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 16px;
+  text-underline-position: below;
+} */
+
+/* <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+>        <title>HTML Practice</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div class="container">
+        <h1  class="naasax">
+           NAASAX
+        </h1>
+        <nav id="tabrow">
+            <a href="home.html"><button >Home</button></a>
+        </nav>
+        <h2 class="welcome">
+            Welcome <br> Prashant Shrestha
+        </h2>
+        </div>
+        <p>
+            NEPSE 2581.21
+            SENSIND 446.01
+            Turnover: 2076160884
+        </p>
+    </body>
+</html> */
